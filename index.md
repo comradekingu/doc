@@ -46,7 +46,7 @@
 
   <div class="row cf">
     <div class="col-md-7 text-right">
-      <h1>Setup <small>your server with ease, you already have everything at home</small></h1>
+      <h1>Set up <small>your server with ease, you already have everything at home</small></h1>
       <p><br /><a href="/hardware">See the requirements</a></p>
     </div>
     <div class="col-md-4">
